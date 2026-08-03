@@ -1,0 +1,7 @@
+class StringBuilder {
+    #value;
+
+    constructor () {
+
+    }
+}
